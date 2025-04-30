@@ -1,7 +1,0 @@
-The quick brown fox jumps over the lazy dog.
-A quick example of how grep works.
-Quick thinking saved the day.
-Never underestimate the power of a quick response.
-Sometimes, being quick is more important than being right.
-This line does not have the keyword.
-
